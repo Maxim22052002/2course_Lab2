@@ -1,0 +1,6 @@
+﻿  Fraction.cpp
+C:\Users\Максим\source\repos\Lab2(1)\Lab2(2)\Fraction.cpp(105,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Максим\source\repos\Lab2(1)\Lab2(2)\Fraction.cpp(106,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Максим\source\repos\Lab2(1)\Lab2(2)\Fraction.cpp(129,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab2(2).cpp
+  Lab2(2).vcxproj -> C:\Users\Максим\source\repos\Lab2(1)\Debug\Lab2(2).exe
